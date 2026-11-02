@@ -1,0 +1,7 @@
+# Learning Objectives: Autonomous Software Engineering Platform
+
+By completing this project, you will understand:
+1. The architectural role of Autonomous Software Engineering Platform.
+2. How to define clean Pydantic tool schemas.
+3. How to manage model context windows and calculate token costs.
+4. How to write automated tests for agentic workflows.
